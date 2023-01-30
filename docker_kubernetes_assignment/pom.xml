@@ -36,6 +36,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker_kubernetes-assignment</finalName>
+		<finalName>docker_kubernetes_assignment</finalName>
 	</build>
 </project>
